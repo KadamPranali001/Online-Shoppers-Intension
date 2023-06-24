@@ -10,6 +10,7 @@ Our team experimented with various classification algorithms, evaluating their p
 The results of our prediction model are impressive. It achieved an accuracy of 87% on the testing set, demonstrating its ability to make accurate predictions regarding shopper intention. With high precision and recall scores, the model effectively identifies both positive and negative instances, providing businesses with valuable insights into shopper behavior.
 
 To ensure the model's reliability and generalizability, we conducted rigorous cross-validation, which confirmed its robustness across different subsets of the data. This validates the model's ability to perform consistently and reliably in real-world scenarios.
+
 In conclusion, our prediction model based on the Online Shopper Intention dataset successfully predicts whether an online shopper is likely to make a purchase.
 This model can assist businesses in making data-driven decisions to optimize their marketing efforts and increase conversion rates.
 In the future, we plan to explore additional features and incorporate more advanced machine learning techniques to further improve the model's performance.
